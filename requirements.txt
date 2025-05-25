@@ -101,6 +101,7 @@ gitdb @ file:///tmp/build/80754af9/gitdb_1617117951232/work
 GitPython @ file:///C:/b/abs_e1lwow9h41/croot/gitpython_1696937027832/work
 gmpy2 @ file:///C:/ci_311/gmpy2_1677743390134/work
 greenlet @ file:///C:/b/abs_a6c75ie0bc/croot/greenlet_1702060012174/work
+gunicorn==23.0.0
 h5py @ file:///C:/b/abs_17fav01gwy/croot/h5py_1691589733413/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///C:/b/abs_704uucojt7/croot/holoviews_1707836477070/work
@@ -223,6 +224,7 @@ prompt-toolkit @ file:///C:/b/abs_68uwr58ed1/croot/prompt-toolkit_1704404394082/
 Protego @ file:///tmp/build/80754af9/protego_1598657180827/work
 protobuf==3.20.3
 psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
+psycopg2-binary==2.9.10
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
 py-cpuinfo @ file:///C:/b/abs_9ej7u6shci/croot/py-cpuinfo_1698068121579/work
@@ -360,6 +362,7 @@ webencodings==0.5.1
 websocket-client @ file:///C:/ci_311/websocket-client_1676426063281/work
 Werkzeug @ file:///C:/b/abs_8578rs2ra_/croot/werkzeug_1679489759009/work
 whatthepatch @ file:///C:/ci_311/whatthepatch_1678402578113/work
+whitenoise==6.9.0
 widgetsnbextension @ file:///C:/b/abs_derxhz1biv/croot/widgetsnbextension_1701273671518/work
 win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
 wrapt @ file:///C:/ci_311/wrapt_1676432805090/work
@@ -372,6 +375,3 @@ zict @ file:///C:/b/abs_780gyydtbp/croot/zict_1695832899404/work
 zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
 zope.interface @ file:///C:/ci_311/zope.interface_1676439868776/work
 zstandard==0.19.0
-gunicorn
-whitenoise
-psycopg2-binary
