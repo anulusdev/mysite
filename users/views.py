@@ -8,8 +8,8 @@ from .forms import UserRegisterForm, UserUpdateForm, ProfileUpdateForm
 # def logout_view(request):
 # 	logout(request)
 # 	return render(request, 'users/logout.html') 
-"""I DIDN'T USE THIS METHOD BCOS IT ALLOWS THE LOGOUT PAGE THROUGH BOTH TYPING THE URL AND LOGOUT FORM BUTTON 
-BUT THE POST METHOD I USED (CHECK NAVBAR) WILL ONLY ALLOWS IT THROUGH LOGOUT FORM BUTTON MAKING IT SECURE """
+# """I DIDN'T USE THIS METHOD BCOS IT ALLOWS THE LOGOUT PAGE THROUGH BOTH TYPING THE URL AND LOGOUT FORM BUTTON
+# BUT THE POST METHOD I USED (CHECK NAVBAR) WILL ONLY ALLOWS IT THROUGH LOGOUT FORM BUTTON MAKING IT SECURE """
 
 def register(request):
 	if request.method == "POST":
@@ -53,11 +53,10 @@ def profile(request):
 
 
 
-"""
-THE TYPE OF MESSAGE WE CAN HAVE:
-	message.debug
-	message.info
-	message.success
-	message.warning
-	message.error
-"""
+
+# THE TYPE OF MESSAGE WE CAN HAVE:
+# 	message.debug
+# 	message.info
+# 	message.success
+# 	message.warning
+# 	message.error
